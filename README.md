@@ -6,6 +6,7 @@ Feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-Amizhthan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amizhthan-m-d/)](https://www.linkedin.com/in/amizhthan-m-d/)
 [![Instagram Badge](https://img.shields.io/badge/-_md.amizhthan_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_md.amizhthan_/)](https://www.instagram.com/_md.amizhthan_/)
 [![Gmail Badge](https://img.shields.io/badge/-amizhthan.md@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amizhthan.md@gmail.com)](mailto:amizhthan.md@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google&logoColor=white&link=https://www.amizhthan.site)](https://www.amizhthan.site)
 
 ## ⚡ Technologies
 
